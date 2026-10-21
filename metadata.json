@@ -1,0 +1,6 @@
+{
+  "name": "AI-GRAFT V2 - Smart Plant Grafting Assistant",
+  "description": "Software-based grafting intelligence for seedling assessment, rootstock-scion pairing, graft quality scoring, healing monitoring, and failure risk prediction with voice accessibility and offline support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
